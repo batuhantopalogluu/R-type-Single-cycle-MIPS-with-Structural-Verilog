@@ -1,0 +1,107 @@
+Restore Archived Project report for project03
+Thu Dec 20 00:47:41 2018
+Quartus II 32-bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Thu Dec 20 00:47:41 2018 ;
+; Revision Name                   ; project03                             ;
+; Top-level Entity Name           ; mips32                                ;
+; Family                          ; Cyclone III                           ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/batuhan/Desktop/org3/151044026 (5)/151044026/151044026.qar' into the 'C:\\Users\\batuhan\\Desktop\\org3\\datapath/' directory
+Info: Generated report 'project03.restore.rpt'
+Info (23030): Evaluation of Tcl script d:/altera/13.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II 32-bit Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 318 megabytes
+    Info: Processing ended: Thu Dec 20 00:47:41 2018
+    Info: Elapsed time: 00:00:01
+    Info: Total CPU time (on all processors): 00:00:02
+
+
++------------------------------------------------------+
+; Files Restored                                       ;
++------------------------------------------------------+
+; File Name                                            ;
++------------------------------------------------------+
+; _2_1_mux.v                                           ;
+; _2_1_mux_v2.v                                        ;
+; _32_bit_and.v                                        ;
+; _32_bit_mux.v                                        ;
+; _32_bit_nor.v                                        ;
+; _32_bit_or.v                                         ;
+; _32_bit_xor.v                                        ;
+; _32bit_2_1mux.v                                      ;
+; _32bit_Adder.v                                       ;
+; _32bit_Sub.v                                         ;
+; _4_1_mux.v                                           ;
+; _4bit_adder.v                                        ;
+; _5bit_2_1mux.v                                       ;
+; _8_1_V2_mux.v                                        ;
+; _8_1_mux.v                                           ;
+; alu32.v                                              ;
+; assign_32bit.v                                       ;
+; assignment_defaults.qdf                              ;
+; control_unit.v                                       ;
+; db/project03.db_info                                 ;
+; full_adder.v                                         ;
+; half_adder.v                                         ;
+; incremental_db/compiled_partitions/project03.db_info ;
+; mips32.v                                             ;
+; mips32_testbench.v                                   ;
+; mips_registers.v                                     ;
+; project03.qpf                                        ;
+; project03.qsf                                        ;
+; shift_left_logic.v                                   ;
+; shift_right_logic.v                                  ;
+; signExtender.v                                       ;
+; signExtender_v2.v                                    ;
+; simulation/modelsim/registers.mem                    ;
+; simulation/modelsim/test_input.tv                    ;
++------------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
